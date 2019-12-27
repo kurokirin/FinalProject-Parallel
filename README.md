@@ -10,5 +10,5 @@ Including google app engine project (photo album) and page rank algorithm projec
 <br>[1] https://github.com/GoogleCloudPlatform/appengine-photoalbum-example
 
 # Reference for PageRank Algorithm project:
-<br>[1] 1-2019-ITCS414-P3.v1.pdf
-<br>[2] PR_cuda.pdf
+<br>[1] References/1-2019-ITCS414-P3.v1.pdf
+<br>[2] References/PR_cuda.pdf
