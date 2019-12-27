@@ -1,0 +1,113 @@
+Reading from the file
+finish reading from file
+find outlinks
+find sink node
+initialize
+run pagerank
+get perplexity
+get perplexity
+get perplexity
+get perplexity
+get rank
+Top 100 pages are
+Rank#0 PageID: 267869
+Rank#1 PageID: 1
+Rank#2 PageID: 1315
+Rank#3 PageID: 5794
+Rank#4 PageID: 968
+Rank#5 PageID: 808
+Rank#6 PageID: 18343
+Rank#7 PageID: 4506
+Rank#8 PageID: 9723
+Rank#9 PageID: 3429
+Rank#10 PageID: 56702
+Rank#11 PageID: 1663
+Rank#12 PageID: 21659
+Rank#13 PageID: 4114
+Rank#14 PageID: 510574
+Rank#15 PageID: 243
+Rank#16 PageID: 311799
+Rank#17 PageID: 2708
+Rank#18 PageID: 84042
+Rank#19 PageID: 4401
+Rank#20 PageID: 258983
+Rank#21 PageID: 525548
+Rank#22 PageID: 169989
+Rank#23 PageID: 11244
+Rank#24 PageID: 85848
+Rank#25 PageID: 3791
+Rank#26 PageID: 638159
+Rank#27 PageID: 660849
+Rank#28 PageID: 11236
+Rank#29 PageID: 22744
+Rank#30 PageID: 538703
+Rank#31 PageID: 24997
+Rank#32 PageID: 119238
+Rank#33 PageID: 7758
+Rank#34 PageID: 30315
+Rank#35 PageID: 6696
+Rank#36 PageID: 3136
+Rank#37 PageID: 7265
+Rank#38 PageID: 26406
+Rank#39 PageID: 6389
+Rank#40 PageID: 27573
+Rank#41 PageID: 131289
+Rank#42 PageID: 222945
+Rank#43 PageID: 118949
+Rank#44 PageID: 4158
+Rank#45 PageID: 21625
+Rank#46 PageID: 8466
+Rank#47 PageID: 566204
+Rank#48 PageID: 20530
+Rank#49 PageID: 123628
+Rank#50 PageID: 21313
+Rank#51 PageID: 3326
+Rank#52 PageID: 441426
+Rank#53 PageID: 491942
+Rank#54 PageID: 9866
+Rank#55 PageID: 61998
+Rank#56 PageID: 188973
+Rank#57 PageID: 243000
+Rank#58 PageID: 15482
+Rank#59 PageID: 41786
+Rank#60 PageID: 105555
+Rank#61 PageID: 61368
+Rank#62 PageID: 23427
+Rank#63 PageID: 225275
+Rank#64 PageID: 478
+Rank#65 PageID: 105591
+Rank#66 PageID: 4043
+Rank#67 PageID: 224614
+Rank#68 PageID: 651919
+Rank#69 PageID: 212818
+Rank#70 PageID: 27837
+Rank#71 PageID: 36551
+Rank#72 PageID: 315100
+Rank#73 PageID: 27054
+Rank#74 PageID: 417511
+Rank#75 PageID: 470
+Rank#76 PageID: 566315
+Rank#77 PageID: 381216
+Rank#78 PageID: 151557
+Rank#79 PageID: 29217
+Rank#80 PageID: 27506
+Rank#81 PageID: 34798
+Rank#82 PageID: 48736
+Rank#83 PageID: 11246
+Rank#84 PageID: 5775
+Rank#85 PageID: 130940
+Rank#86 PageID: 458737
+Rank#87 PageID: 48552
+Rank#88 PageID: 13967
+Rank#89 PageID: 112225
+Rank#90 PageID: 24774
+Rank#91 PageID: 18395
+Rank#92 PageID: 540
+Rank#93 PageID: 725
+Rank#94 PageID: 10351
+Rank#95 PageID: 236235
+Rank#96 PageID: 27734
+Rank#97 PageID: 2928
+Rank#98 PageID: 176748
+Rank#99 PageID: 5849
+time: 130699
